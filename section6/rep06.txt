@@ -1,0 +1,8 @@
+ok.
+a.
+like.
+play.
+hill(h).
+p(a). atom. q(b(a)). r(A).
+H is nn.
+t(A) :- p.
